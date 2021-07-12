@@ -141,10 +141,16 @@ PARSED GITHUB STATS CARDS
 <h2> Technologies </h2>
 
 <p> <img alt="HTML5 badge" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height=30 width=100/> <img alt="Git badge" src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" height=30 width=100/> 
+<img src ="https://www.python.org/static/community_logos/python-logo.png" height=30 width=100/>
  <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height=30 width=100/>
+ <img src ="https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2018/08/typescriptfeature.png" height=30 width=100/>
+ <img src ="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" height=30 width=100/>
+ <img src ="https://www.makotemplates.org/images/makoLogo.png" height=30 width=100/>
+
  <img src ="https://uploads.toptal.io/blog/image/125413/toptal-blog-image-1518523133236-d2bc894552c77f954f1e5ce48da6604d.png" height=30 width=100 />
 <img alt="PostgreSQL badge" src="https://img.shields.io/badge/postgresql%20-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height=30 width=100/>
 <img src ="https://img.shields.io/badge/bootstrap%20-%23F7DF1E.svg?&style=for-the-badge&logo=bootstrap&logoColor=black" />
+<img src ="" height=30 width=100/>
 <img alt="SQLite badge" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white" height=30 width=100/> 
 <img alt="Flask" src ="https://user-images.githubusercontent.com/567298/52816968-216f6480-30ab-11e9-9d19-6418ba51563b.png" height=30 width=100/> 
 <img src ="https://static.djangoproject.com/img/logos/django-logo-positive.png" height=30 width=100/>

@@ -33,13 +33,13 @@
 ### Hi there 👋 I am [Martin Mylles]
 
 
-🟠 &nbsp;I'm looking for help with **Entreprenuership & Community Management**.
+🟠 &nbsp;I'm looking to develop myself in **Various coding languages**.
 
 🟡 &nbsp;I'm currently working on <a href="..">**Moringa projects**.</a>
 
-🟢 &nbsp;I'm currently learning **Django** and **React**.
+🟢 &nbsp;I'm currently learning **Django** and **Rest API**.
 
-🔵 &nbsp;I love crypto and investing as well as coding.
+🔵 &nbsp;I love coding football , Investing and documentaies.
 
 
 <!--  🟣 &nbsp;Fun Fact: He . -->

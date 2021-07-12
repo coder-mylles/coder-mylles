@@ -39,7 +39,7 @@
 
 🟢 &nbsp;I'm currently learning **Django** and **Rest API**.
 
-🔵 &nbsp;I love coding football , Investing and documentaies.
+🔵 &nbsp;I love Coding ,Interacting , Football , Investing and documentaies.
 
 
 <!--  🟣 &nbsp;Fun Fact: He . -->

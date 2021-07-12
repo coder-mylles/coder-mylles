@@ -150,7 +150,7 @@ PARSED GITHUB STATS CARDS
  <img src ="https://uploads.toptal.io/blog/image/125413/toptal-blog-image-1518523133236-d2bc894552c77f954f1e5ce48da6604d.png" height=30 width=100 />
 <img alt="PostgreSQL badge" src="https://img.shields.io/badge/postgresql%20-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height=30 width=100/>
 <img src ="https://img.shields.io/badge/bootstrap%20-%23F7DF1E.svg?&style=for-the-badge&logo=bootstrap&logoColor=black" />
-<img src ="" height=30 width=100/>
+<img src ="https://seekvectorlogo.net/wp-content/uploads/2018/12/heroku-vector-logo.png" height=30 width=100/>
 <img alt="SQLite badge" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white" height=30 width=100/> 
 <img alt="Flask" src ="https://user-images.githubusercontent.com/567298/52816968-216f6480-30ab-11e9-9d19-6418ba51563b.png" height=30 width=100/> 
 <img src ="https://static.djangoproject.com/img/logos/django-logo-positive.png" height=30 width=100/>

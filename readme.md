@@ -35,7 +35,7 @@
 
 🟠 &nbsp;I'm looking to develop myself in **Various coding languages**.
 
-🟡 &nbsp;I'm currently working on <a href="..">**Moringa projects**.</a>
+
 
 🟢 &nbsp;I'm currently learning **Django** and **Rest API**.
 
